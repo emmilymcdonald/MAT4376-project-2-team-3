@@ -1,0 +1,102 @@
+---
+title: "Task 3"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+Start with a subset of 100 data points and perform inference. Find the posterior probability that the new page has a higher conversion rate. Hint: use random samples from the independent posteriors to estimate the probability. Update the posteriors with another 100 data points. At what data size do the priors become irrelevant?
+
+```{r, echo = FALSE}
+suppressPackageStartupMessages(library(readxl))
+
+suppressPackageStartupMessages(library(dplyr))
+
+source("BernBeta.R" )
+
+ab_data <- read_excel("/Users/allisonselwah/Downloads/MAT4376/project2/ab_data_v2.xlsx")
+
+df <- data.frame(ab_data)
+
+df <- subset(df,group != 'control', select = c('index', 'landing_encoded','converted'))
+
+# PRIOR 1 - Beta(12,100) PRIOR (ABOUT 12% CONVERSION RATE)
+
+print(paste("Test 1"))
+
+rand_df <- df[sample(nrow(df), size=100), ]
+
+inf <- BernBeta(c(12,100), rand_df$converted)
+
+print(paste("Test 2"))
+
+df <- df[!(row.names(rand_df) %in% c("index")),]
+
+rand_df <- df[sample(nrow(df), size=100), ]
+
+inf <- BernBeta(inf, rand_df$converted)
+
+print(paste("Test 3"))
+
+df <- df[!(row.names(rand_df) %in% c("index")),]
+
+rand_df <- df[sample(nrow(df), size=100), ]
+
+inf <- BernBeta(inf, rand_df$converted)
+
+print(paste("Test 4"))
+
+df <- df[!(row.names(rand_df) %in% c("index")),]
+
+rand_df <- df[sample(nrow(df), size=100), ]
+
+inf <- BernBeta(inf, rand_df$converted)
+
+print(paste("Test 5"))
+
+df <- df[!(row.names(rand_df) %in% c("index")),]
+
+rand_df <- df[sample(nrow(df), size=100), ]
+
+inf <- BernBeta(inf, rand_df$converted)
+
+print(paste("Test 6"))
+
+df <- df[!(row.names(rand_df) %in% c("index")),]
+
+rand_df <- df[sample(nrow(df), size=100), ]
+
+inf <- BernBeta(inf, rand_df$converted)
+
+print(paste("Test 7"))
+
+df <- df[!(row.names(rand_df) %in% c("index")),]
+
+rand_df <- df[sample(nrow(df), size=100), ]
+
+inf <- BernBeta(inf, rand_df$converted)
+
+print(paste("Test 8"))
+
+df <- df[!(row.names(rand_df) %in% c("index")),]
+
+rand_df <- df[sample(nrow(df), size=100), ]
+
+inf <- BernBeta(inf, rand_df$converted)
+
+print(paste("Test 9"))
+
+df <- df[!(row.names(rand_df) %in% c("index")),]
+
+rand_df <- df[sample(nrow(df), size=100), ]
+
+inf <- BernBeta(inf, rand_df$converted)
+
+print(paste("Test 10"))
+
+df <- df[!(row.names(rand_df) %in% c("index")),]
+
+rand_df <- df[sample(nrow(df), size=100), ]
+
+inf <- BernBeta(inf, rand_df$converted)
+```
