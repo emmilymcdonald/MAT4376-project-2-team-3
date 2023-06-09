@@ -1,7 +1,9 @@
 ---
 title: "MAT 4376 - Project 2"
 author: "Alli Selwah"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r}
@@ -10,44 +12,49 @@ library(readxl)
 ab_data <- read_excel("/Users/allisonselwah/Downloads/MAT4376/project2/ab_data.xlsx")
 ```
 
-```{r}
-# library(ggplot2)
-# 
-# ggplot(data=ab_data, aes(x=Hour, y=landing_encoded)) +
-#   geom_bar(stat="identity", width=0.7, fill="steelblue")+
-#   theme_minimal()
-# 
-# ggplot(data=ab_data, aes(x=Day, y=landing_encoded)) +
-#   geom_bar(stat="identity", width=0.7, fill="steelblue")+
-#   theme_minimal()
-# 
-# ggplot(data=ab_data, aes(x=Hour, y=group_encoded)) +
-#   geom_bar(stat="identity", width=0.7, fill="steelblue")+
-#   theme_minimal()
+```{r, include = FALSE}
+library(ggplot2)
+
+ggplot(data=ab_data, aes(x=Hour, y=landing_encoded, color = group)) +
+  geom_bar(stat="identity", width=0.7, fill="steelblue")+
+  theme_minimal()
+
+ggplot(data=ab_data, aes(x=Day, y=landing_encoded, color = group)) +
+  geom_bar(stat="identity", width=0.7, fill="steelblue")+
+  theme_minimal()
+
+ggplot(data=ab_data, aes(x=Hour, y=group_encoded, color = landing_page)) +
+  geom_bar(stat="identity", width=0.7, fill="steelblue")+
+  theme_minimal()
+
+ggplot(data=ab_data, aes(x=Hour, y=group_encoded, color = landing_page)) +
+  geom_bar(stat="identity", width=0.7, fill="steelblue")+
+  theme_minimal()
 ```
 
 ```{r}
 library(ggplot2)
 
-# ggplot(data=ab_data, aes(x=Day, y=converted)) +
-#    geom_bar(stat="identity", width=0.7, fill="steelblue")+
-#    theme_minimal()
-# 
-# ggplot(data=ab_data, aes(x=Hour, y=converted)) +
-#    geom_bar(stat="identity", width=0.7, fill="steelblue")+
-#    theme_minimal()
-# 
-# ggplot(ab_data, aes(x = Day, y = Hour, color = landing_page)) +
-#   geom_point()
+ggplot(data=ab_data, aes(x=Day, y=converted, color = group)) +
+   geom_bar(stat="identity", width=0.7, fill="steelblue")+
+   theme_minimal()
 
+ggplot(data=ab_data, aes(x=Hour, y=converted, color = group)) +
+   geom_bar(stat="identity", width=0.7, fill="steelblue")+
+   theme_minimal()
+# 
+# ggplot(ab_data, aes(x = Day, y = Hour, color = group)) +
+#   geom_point()
+# 
 # ggplot(ab_data, aes(x = group, y = landing_page, color = group)) +
 #  geom_count()
-
-# look into stacked bar graph for control vs treatment plotted on like days and hours or smth
 ```
 
-```{r}
+```{r, include = FALSE}
+# code for task 2 maybe?
+
 source( "BernBeta.R" )
+
 post = BernBeta( c(2,20) , c( ab_data$landing_encoded ) )
 post = BernBeta( post , c( ab_data$landing_encoded ) )
 ```
