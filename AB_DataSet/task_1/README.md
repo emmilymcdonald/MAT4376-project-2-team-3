@@ -2,9 +2,9 @@
 
 ## Histograms - both groups
 
-<img width="574" alt="histogram_hour_converted" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/107c9ac0-c1e5-4e75-8dcc-d3e86e5a1441">
+<img width="500" alt="histogram_hour_converted" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/107c9ac0-c1e5-4e75-8dcc-d3e86e5a1441">
 
-<img width="569" alt="histogram_day_converted" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/0d839d5c-0c00-4924-b672-cf142abd927a">
+<img width="500" alt="histogram_day_converted" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/0d839d5c-0c00-4924-b672-cf142abd927a">
 
 ## Histograms - treatment group
 
