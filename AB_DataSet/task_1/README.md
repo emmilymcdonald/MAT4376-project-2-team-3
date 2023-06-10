@@ -24,7 +24,13 @@
 
 ### Using the treatment group from the dataset, taking 12 random subsets of 100 datapoints
 
+<img width="647" alt="prior1_treatment" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/c79b5cfc-6033-4d0f-ae10-5380984f2d0b">
 
+<img width="716" alt="prior2_treatment" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/f359a693-6be2-45aa-be19-2a2ce19ab6bb">
+
+<img width="660" alt="prior3_treatment" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/f4aa0131-43ef-4c2f-9ff2-0748736254e0">
+
+<img width="680" alt="prior4_treatment" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/fab29a5d-d1c8-4835-90f8-5c8e74ccfb2e">
 
 ### Using the control group from the dataset, taking 12 random subsets of 100 datapoints
 
