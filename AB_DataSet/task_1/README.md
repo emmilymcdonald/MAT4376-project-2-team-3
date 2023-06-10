@@ -6,7 +6,9 @@
 
 <img width="569" alt="histogram_day_converted" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/0d839d5c-0c00-4924-b672-cf142abd927a">
 
-## Priors
+## Testing out different priors to see how an increase in datapoints pushes the prior toward convergence
+
+### Priors
 
 <img width="392" alt="priors" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/8576ddb6-88f7-41b9-829f-ef8948ff7741">
 
