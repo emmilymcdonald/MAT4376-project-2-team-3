@@ -8,11 +8,15 @@
 
 ## Histograms - treatment group
 
+<img width="466" alt="hist_day_converted_treatment" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/41570f9b-ecb5-477c-bc49-57b6ec7359c0">
 
+<img width="467" alt="hist_hour_converted_treatment" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/6673bd63-12cb-49af-a7fa-6a58fae122f6">
 
-# Histograms - control group
+## Histograms - control group
 
+<img width="490" alt="hist_day_converted_control" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/ca865783-c4d6-4311-abc8-750026b2bfba">
 
+<img width="494" alt="hist_hour_converted_control" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/182e96c8-2802-4eca-9c89-fad95aa7c6c3">
 
 ## Testing out different priors to see how an increase in datapoints pushes the prior toward convergence
 
