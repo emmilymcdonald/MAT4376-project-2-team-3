@@ -1,10 +1,18 @@
 # Visualizations for Task 1
 
-## Histograms
+## Histograms - both groups
 
 <img width="574" alt="histogram_hour_converted" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/107c9ac0-c1e5-4e75-8dcc-d3e86e5a1441">
 
 <img width="569" alt="histogram_day_converted" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/0d839d5c-0c00-4924-b672-cf142abd927a">
+
+## Histograms - treatment group
+
+
+
+# Histograms - control group
+
+
 
 ## Testing out different priors to see how an increase in datapoints pushes the prior toward convergence
 
@@ -34,3 +42,10 @@
 
 ### Using the control group from the dataset, taking 12 random subsets of 100 datapoints
 
+<img width="653" alt="prior1_control" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/c8fb049c-6533-4368-a709-a31976cd1b83">
+
+<img width="721" alt="prior2_control" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/dcdfc77b-bca7-4cad-a504-0ea6d3fd41b2">
+
+<img width="670" alt="prior3_control" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/5a5ea402-f1b9-4158-83c7-c810c36e00b3">
+
+<img width="682" alt="prior4_control" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/1cbffe6a-2011-4bbd-a600-c000c9056459">
