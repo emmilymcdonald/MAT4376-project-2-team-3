@@ -6,6 +6,10 @@
 
 <img width="500" alt="histogram_day_converted" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/0d839d5c-0c00-4924-b672-cf142abd927a">
 
+There is an overall uniform distrubtion for both graphs. 
+Graph 1 shows the time both the control and treatment groups accessed the website.
+Graph 2 shows the days both the control and treatment groups accessed the website, with the lowest values on the first and end date. 
+
 ## Histograms - treatment group
 
 <img width="466" alt="hist_day_converted_treatment" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/41570f9b-ecb5-477c-bc49-57b6ec7359c0">
