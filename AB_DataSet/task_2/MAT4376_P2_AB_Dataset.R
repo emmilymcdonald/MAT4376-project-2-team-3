@@ -192,7 +192,8 @@ stan_samples <- stan(model_code = model_string, data = data_list)
 
 library(bayesAB)
 
-A_binom <- rbinom(100, 1, .1203946)
-B_binom <- rbinom(100, 1, .1187448)
+A_binom <- rbinom(145232, 1, .1203946)
+B_binom <- rbinom(145352, 1, .1187448)
 AB1 <- bayesTest(A_binom, B_binom, priors = c('alpha' = 2, 'beta' = 20), distribution = 'bernoulli')
 print(AB1)
+plot(AB1)
