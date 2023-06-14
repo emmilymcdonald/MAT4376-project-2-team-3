@@ -1,0 +1,102 @@
+---
+title: "task 2 - project 2"
+author: "Alli Selwah"
+output: html_document
+---
+
+```{r}
+library(VGAM)
+# Number of replicates from the prior
+n.draws <- 290584
+
+# Prior
+# This generates a probability of
+# success for pages old and new,
+# for each of the replicates
+prior <- data.frame(p.old = runif(n.draws, min = 0, max = 1), p.new = runif(n.draws, min = 0, max = 1))
+
+# Generative model
+# This tells us how many visitors to expect
+# for page types old, new
+generative.model <- function(p.old, p.new) {
+  visitors.old <- rbetabinom(1, 10, p.old)
+  visitors.new <- rbetabinom(1, 10, p.new)
+  c(visitors.old = visitors.old, visitors.new = visitors.new)}
+
+# Simulate data using the parameters
+# from the prior and the gen. model
+# This generates the actual number of
+# visitors for each replicate
+sim.data <- as.data.frame( t(sapply(1:n.draws, function(i) {
+  generative.model(prior$p.old[i], prior$p.new[i])})))
+
+# Only those prior probabilities for
+# which the generative model match the
+# observed data are retained
+posterior <- prior[sim.data$visitors.old == 1 & sim.data$visitors.new == 1,]
+
+# Visualize the posteriors
+par(mfrow = c(2,3))
+hist(c(posterior$p.old), main = "Posterior -- old page", xlab="p.old")
+hist(c(posterior$p.new), main = "Posterior -- new page", xlab="p.new")
+plot(posterior,main = "Success for old and new pages", xlab="p.old", ylab="p.new")
+
+# Compute the estimated average profit per mailing
+avg.profit.old <- -30 + posterior$p.old * 1000
+avg.profit.new <- -300 + posterior$p.new * 1000
+hist(avg.profit.old, main = "Average Profit -- old page", xlab="profit.old")
+hist(avg.profit.new, main = "Average Profit -- new page", xlab="profit.new")
+
+# Total expected profit
+hist(avg.profit.old - avg.profit.new, main="Posterior -- profit old - profit new")
+expected.avg.profit.diff <- mean(avg.profit.old - avg.profit.new)
+abline(v = expected.avg.profit.diff , col = "red", lwd =2)
+```
+
+```{r}
+# Number of replicates from the prior
+n.draws <- 290584
+
+# Prior
+# This generates a probability of
+# success for pages old and new,
+# for each of the replicates
+prior <- data.frame(p.old = runif(n.draws, min = 0, max = 1), p.new = runif(n.draws, min = 0, max = 1))
+
+# Generative model
+# This tells us how many visitors to expect
+# for page types old, new
+generative.model <- function(p.old, p.new) {
+  visitors.old <- rbinom(1, 10, p.old)
+  visitors.new <- rbinom(1, 10, p.new)
+  c(visitors.old = visitors.old, visitors.new = visitors.new)}
+
+# Simulate data using the parameters
+# from the prior and the gen. model
+# This generates the actual number of
+# visitors for each replicate
+sim.data <- as.data.frame( t(sapply(1:n.draws, function(i) {
+  generative.model(prior$p.old[i], prior$p.new[i])})))
+
+# Only those prior probabilities for
+# which the generative model match the
+# observed data are retained
+posterior <- prior[sim.data$visitors.old == 1 & sim.data$visitors.new == 1,]
+
+# Visualize the posteriors
+par(mfrow = c(2,3))
+hist(c(posterior$p.old), main = "Posterior -- old page", xlab="p.old")
+hist(c(posterior$p.new), main = "Posterior -- new page", xlab="p.new")
+plot(posterior,main = "Success for page types old and new", xlab="p.old", ylab="p.new")
+
+# Compute the estimated average profit per mailing
+avg.profit.old <- -30 + posterior$p.old * 1000
+avg.profit.new <- -300 + posterior$p.new * 1000
+hist(avg.profit.old, main = "Average Profit -- old page", xlab="profit.old")
+hist(avg.profit.new, main = "Average Profit -- new page", xlab="profit.new")
+
+# Total expected profit
+hist(avg.profit.old - avg.profit.new, main="Posterior -- profit old - profit new")
+expected.avg.profit.diff <- mean(avg.profit.old - avg.profit.new)
+abline(v = expected.avg.profit.diff , col = "red", lwd =2)
+```
