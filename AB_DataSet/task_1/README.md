@@ -2,9 +2,10 @@
 
 ## Histograms - both groups
 
-<img width="500" alt="histogram_hour_converted" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/107c9ac0-c1e5-4e75-8dcc-d3e86e5a1441">
+![histogram - hour](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/histogram_hour_converted.png?raw=true)
 
-<img width="500" alt="histogram_day_converted" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/0d839d5c-0c00-4924-b672-cf142abd927a">
+
+![histogram - day](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/histogram_day_converted.png?raw=true)
 
 &nbsp;
 Interactive Day: https://vdry2m.csb.app/
@@ -16,15 +17,15 @@ Graph 2 shows the days both the control and treatment groups accessed the websit
 
 ## Histograms - treatment group
 
-<img width="466" alt="hist_day_converted_treatment" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/41570f9b-ecb5-477c-bc49-57b6ec7359c0">
+![histogram - day - treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/hist_hour_converted_treatment.png?raw=true)
 
-<img width="467" alt="hist_hour_converted_treatment" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/6673bd63-12cb-49af-a7fa-6a58fae122f6">
+![histogram - hour - treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/hist_day_converted_treatment.png?raw=true)
 
 ## Histograms - control group
 
-<img width="490" alt="hist_day_converted_control" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/ca865783-c4d6-4311-abc8-750026b2bfba">
+![histogram - day - control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/hist_hour_converted_control.png?raw=true)
 
-<img width="494" alt="hist_hour_converted_control" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/182e96c8-2802-4eca-9c89-fad95aa7c6c3">
+![histogram - hour - control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/hist_day_converted_control.png?raw=true)
 
 ## Testing out different priors to see how an increase in datapoints pushes the prior toward convergence
 
