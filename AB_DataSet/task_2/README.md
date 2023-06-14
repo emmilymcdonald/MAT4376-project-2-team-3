@@ -17,7 +17,7 @@
 
 &nbsp;
 
-## AB Beta Probability Density Function
+## AB Beta Probability Density Function, same for (100)
 
 ![AB Beta Probability Density Function](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_BetaProb_DensityFunction.png?raw=true)
 
@@ -36,10 +36,6 @@
 ![AB 100 Posterior Test](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_100_Posterior.png?raw=true)
 
 
-&nbsp;
-
-## AB Beta Probablity Density Function (100)
-![AB 100 Beta Probablity Density Function](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_100_Betaprob_DensityFunction.png?raw=true)
 
 &nbsp;
 
