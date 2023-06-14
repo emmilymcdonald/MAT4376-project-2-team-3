@@ -7,3 +7,37 @@
 ## Using rbinom
 
 <img width="577" alt="rbinom" src="https://github.com/EvaGostiuk/MAT4376-project-2-team-3/assets/133037200/a8397355-0955-4f41-aaf0-b1821ad57eb8">
+
+&nbsp;
+
+
+![AB Posterior Test](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/AB_Test__ABPosterior.png?raw=true)
+
+
+&nbsp;
+
+![AB Beta Probability Density Function](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_BetaProb_DensityFunction.png?raw=true)
+
+
+&nbsp;
+
+![AB Histogram of the mean](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_hist_of_mean.png?raw=true)
+
+
+&nbsp;
+
+![AB 100 Beta Probablity Density Function](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_100_Betaprob_DensityFunction.png?raw=true)
+
+&nbsp;
+
+
+![AB 100 Histogram of the mean](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_100_Hist_of_mean_B.png?raw=true)
+
+
+&nbsp;
+
+
+![AB 100 Posterior Test](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_100_Posterior.png?raw=true)
+
+
+&nbsp;
