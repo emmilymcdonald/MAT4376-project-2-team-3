@@ -49,14 +49,6 @@ We looked specifically at the variables that has high correlations with LOSdays,
 
 ![mimic_heatchart](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/mimic_heatchart.png?raw=true)
 
-Plotting the variable NumDiagnosis against NumTransfers with categorical variable AdmitDiagGroup
-
-![numdiag_numtran_admit_group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numdiag_numtran_admit_group.png?raw=true)
-
-Plotting the variable NumDiagnosis against NumTransfers with categorical variable admit_type
-
-![numdiag_numtran_admit_type](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numdiag_numtran_admit_type.png?raw=true)
-
-With the results above in mind, specifically the heat chart with variable correlations, we wanted to dive further into the variables with a high correlation (close to 1 or -1) to the LOSdays variable. 
+With the results above in mind, we wanted to dive further into the variables with a high correlation (close to 1 or -1) to the LOSdays variable. 
 
 [Exploration of Variables Related to Length of Stay (LOS)](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/02-LOS_Exploration.md)
