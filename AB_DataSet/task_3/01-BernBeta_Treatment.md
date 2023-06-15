@@ -1,4 +1,6 @@
-# Using the BernBeta function to look at the posteriors for the treatment group
+# Using the BernBeta Function to Look at the Posteriors for the Treatment Group and Determine Possible Convergence
+
+We performed 10 tests using BernBeta on the treatment group when the results from the previous test were used as the base in the next test. The datapoints from each random sample that was taken were removed from the dataset so that duplicates in the simulation were avoided. The results are as follows:
 
 Test 1: 
 
@@ -39,3 +41,9 @@ Test 9:
 Test 10: 
 
 ![test10treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/treatment_images/test10treatment.png?raw=true)
+
+
+
+Now, we want to do the same analysis using the same method but on the control group to see where things change. 
+
+[BernBeta for the Control Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/01-BernBeta_Control.md)
