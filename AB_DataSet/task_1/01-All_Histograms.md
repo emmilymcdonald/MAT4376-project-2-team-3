@@ -2,6 +2,10 @@
 
 ![histogram - hour](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/histogram_hour_converted.png?raw=true)
 
+&nbsp;
+Interactive Hour:
+&nbsp;
+
 ![histogram - day](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/histogram_day_converted.png?raw=true)
 
 &nbsp;
