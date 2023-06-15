@@ -6,4 +6,4 @@
 
 Now, we want to switch gears and look at a new dataset, called MIMIC3D.
 
-[Mimic](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3.md)
+[BernBeta With the Treatment Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/01-BernBeta_Treatment.md)
