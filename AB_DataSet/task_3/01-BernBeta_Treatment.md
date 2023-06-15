@@ -46,4 +46,4 @@ Test 10:
 
 Now, we want to do the same analysis using the same method but on the control group to see where things change. 
 
-[BernBeta for the Control Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/01-BernBeta_Control.md)
+[BernBeta for the Control Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/02-BernBeta_Control.md)
