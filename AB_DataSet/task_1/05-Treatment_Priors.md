@@ -30,4 +30,4 @@ For the fourth prior, we got the following results:
 
 Lastly, we wanted to look specifically at the control group and how the different priors impacted the convergence of the data.
 
-[Control Priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/06-Control_Priors?raw=true)
+[Control Priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/06-Control_Priors.md)
