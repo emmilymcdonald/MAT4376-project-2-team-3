@@ -16,4 +16,4 @@ Next we will look into each group on its own.
 
 [Treatment Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/02-Treatment_Histograms.md)
 
-Control Group
+[Control Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/03-Control_Histograms.md)
