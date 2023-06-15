@@ -12,6 +12,6 @@ There is an overall uniform distrubtion for both graphs.
 Graph 1 shows the time both the control and treatment groups accessed the website and were converted.
 Graph 2 shows the days both the control and treatment groups accessed the website and were converted, with the lowest values on the first and end date. 
 
-Next we will look into each group on its own.
+Next we will look into each group on its own starting with the treatment group.
 
 [Treatment Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/02-Treatment_Histograms.md)
