@@ -39,6 +39,3 @@ Plotting the number of prescriptions against LOS:
 Plotting the number of transfers against LOS:
 
 ![numtran_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numtran_los.png?raw=true)
-
-### Data Dictionary for this dataset
-
