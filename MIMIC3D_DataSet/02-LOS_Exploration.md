@@ -39,3 +39,9 @@ Plotting the number of prescriptions against LOS:
 Plotting the number of transfers against LOS:
 
 ![numtran_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numtran_los.png?raw=true)
+
+
+
+With these results in mind, we want to look into the patients.csv file that was created for the class and run Bayesian Linear Regression to see if we can predict the length of stay of a patient.
+
+[Patients Dataset - Bayesian Linear Regression](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/PATIENTS_DataSet/README.md)
