@@ -1,4 +1,6 @@
-## Initial look at the Mimic3D dataset
+## Initial Look and Exploration of the Mimic3D Dataset
+
+Before we dove into our exploration, we first needed to determine what each of the variables were in the provided dataset. We compiled the following data dictionary. 
 
 ### Data Dictionary for the dataset
 
@@ -54,3 +56,7 @@ Plotting the variable NumDiagnosis against NumTransfers with categorical variabl
 Plotting the variable NumDiagnosis against NumTransfers with categorical variable admit_type
 
 ![numdiag_numtran_admit_type](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numdiag_numtran_admit_type.png?raw=true)
+
+With the results above in mind, specifically the heat chart with variable correlations, we wanted to dive further into the variables with a high correlation (close to 1 or -1) to the LOSdays variable. 
+
+[Exploration of Variables Related to Length of Stay (LOS)](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/02-LOS_Exploration.md)
