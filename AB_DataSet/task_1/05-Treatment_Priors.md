@@ -2,9 +2,7 @@
 
 Then, we wanted to take a look just at the treatment group. 
 
-First, we took 12 subsets of 100 random datapoints and looked into their convergence with the following four initial priors (same as before):
-
-![priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/priors.png?raw=true)
+First, we took 12 subsets of 100 random datapoints and looked into their convergence with the same four initial priors:
 
 For the first prior, we got the following results:
 
