@@ -1,6 +1,6 @@
 # Initial look at the Mimic3D dataset
 
-## Heat Chart for Mimic#D dataset
+## Heat Chart for Mimic3D dataset
 
 We looked specifically at the variables that has high correlations with LOSdays, but also looked into those that had high correlations in general.
 
