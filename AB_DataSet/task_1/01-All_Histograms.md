@@ -1,4 +1,4 @@
-# Initial look into the dataset and some initial graphs
+# A First Look at the Data
 
 ![histogram - hour](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/histogram_hour_converted.png?raw=true)
 
@@ -9,5 +9,5 @@ Interactive Day: https://vdry2m.csb.app/
 &nbsp;
 
 There is an overall uniform distrubtion for both graphs. 
-Graph 1 shows the time both the control and treatment groups accessed the website.
-Graph 2 shows the days both the control and treatment groups accessed the website, with the lowest values on the first and end date. 
+Graph 1 shows the time both the control and treatment groups accessed the website and were converted.
+Graph 2 shows the days both the control and treatment groups accessed the website and were converted, with the lowest values on the first and end date. 
