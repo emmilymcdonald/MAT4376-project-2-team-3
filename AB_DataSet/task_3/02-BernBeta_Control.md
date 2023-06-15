@@ -46,3 +46,4 @@ Test 10:
 
 Now, we want to completely change the direction of our analysis and focus on a new dataset, called MIMIC3D.
 
+[Mimic Dataset Exploration Read Me](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/README.md)
