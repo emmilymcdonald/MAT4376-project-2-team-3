@@ -26,3 +26,8 @@ For the fourth prior, we got the following results:
 
 ![priors4 - control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/prior4_control.png?raw=true)
 
+
+
+Now we will switch gears and look into AB Testing of the dataset.
+
+[AB Testing](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/01-AB.md)
