@@ -6,36 +6,36 @@ Test 1:
 
 Test 2: 
 
-![test1control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test2control.png?raw=true)
+![test2control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test2control.png?raw=true)
 
 Test 3: 
 
-![test1control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test3control.png?raw=true)
+![test3control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test3control.png?raw=true)
 
 Test 4: 
 
-![test1control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test4control.png?raw=true)
+![test4control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test4control.png?raw=true)
 
 Test 5: 
 
-![test1control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test5control.png?raw=true)
+![test5control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test5control.png?raw=true)
 
 Test 6: 
 
-![test1control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test6control.png?raw=true)
+![test6control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test6control.png?raw=true)
 
 Test 7: 
 
-![test1control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test7control.png?raw=true)
+![test7control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test7control.png?raw=true)
 
 Test 8: 
 
-![test1control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test8control.png?raw=true)
+![test8control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test8control.png?raw=true)
 
 Test 9: 
 
-![test1control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test9control.png?raw=true)
+![test9control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test9control.png?raw=true)
 
 Test 10: 
 
-![test1control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test10control.png?raw=true)
+![test10control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test10control.png?raw=true)
