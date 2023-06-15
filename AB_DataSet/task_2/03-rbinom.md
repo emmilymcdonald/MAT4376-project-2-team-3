@@ -1,4 +1,4 @@
-# Using rbinom
+# Using rbinom to Simulate a Bayesian AB Test for the AB Dataset
 
 **maybe split up into three separate graphs??**
 
