@@ -1,0 +1,30 @@
+---
+title: "task4_plots2"
+output: html_document
+---
+
+```{r}
+mimic <- read.csv("/Users/allisonselwah/Downloads/MAT4376/project2/mimic3d_v3.csv")
+
+library(ggplot2)
+
+ggplot(mimic, aes(x = LOSdays)) +
+  geom_density(color="#ce2f7f",fill="#f5d5e5") + geom_vline(aes(xintercept=mean(LOSdays)),
+            color="#877aff", linetype="solid")
+
+mean(mimic$LOSdays)
+
+ggplot(mimic, aes(x = AdmitProcedure, y = LOSdays, color = admit_type)) + geom_point() + scale_color_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+
+ggplot(mimic, aes(x = AdmitDiagGroup, y = LOSdays, color = admit_type)) + geom_point() + scale_color_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+
+ggplot(mimic, aes(x = age_g, y = LOSdays, color = admit_type)) + geom_point() + scale_color_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+
+ggplot(mimic, aes(x = NumCallouts, y = LOSdays, color = admit_type)) + geom_point() + scale_color_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+
+ggplot(mimic, aes(x = NumRx, y = LOSdays, color = admit_type)) + geom_point() + scale_color_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+
+ggplot(mimic, aes(x = NumTransfers, y = LOSdays, color = admit_type)) + geom_point() + scale_color_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+
+ggplot(mimic, aes(x = NumDiagnosis, y = LOSdays, color = admit_type)) + geom_point() + scale_color_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+```

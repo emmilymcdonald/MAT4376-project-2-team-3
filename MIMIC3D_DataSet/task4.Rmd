@@ -1,0 +1,31 @@
+---
+title: "task4"
+author: "Alli Selwah"
+output: html_document
+---
+
+```{r}
+mimic <- read.csv("/Users/allisonselwah/Downloads/MAT4376/project2/mimic3d_v3.csv")
+
+library(ggplot2)
+
+ggplot(data=mimic, aes(x=age_g, y=LOSdays, color = admit_type, fill = admit_type)) + geom_point(stat="identity") + scale_color_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+
+ggplot(data=mimic, aes(x=gender, y=LOSdays, color = admit_type, fill = admit_type)) + geom_point(stat="identity") + scale_color_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+
+ggplot(data=mimic, aes(x=AdmitDiagGroup, y=LOSdays, color = admit_type, fill = admit_type)) +
+  geom_point(stat="identity") + scale_color_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+
+ggplot(data=mimic, aes(fill=gender, y=LOSdays, x=admit_type)) + 
+    geom_bar(position="dodge", stat="identity") + scale_fill_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+
+ggplot(data=mimic, aes(x=age, y=LOSdays, color = admit_type, fill = admit_type)) +
+  geom_point(stat="identity") + scale_color_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+
+ggplot(data=mimic, aes(x=NumDiagnosis, y=NumTransfers, color = admit_type, fill = admit_type)) +
+  geom_point(stat="identity") + scale_color_manual(values=c("#877aff", "#ce2f7f", "#5a6e93", "#ef8a6e"))
+
+ggplot(data=mimic, aes(x=NumDiagnosis, y=NumTransfers, color = AdmitDiagGroup, fill = AdmitDiagGroup)) +
+  geom_point(stat="identity") +
+  theme(legend.position = "none")
+```
