@@ -8,17 +8,12 @@ Plotting age against LOS:
 
 ![age_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/age_los.png?raw=true)
 
-Plotting age group against LOS:
-
-![age_group_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/age_group_los.png?raw=true)
-
-Plotting gender against LOS:
-
-![gender_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/gender_los.png?raw=true)
 
 Plotting admit type against LOS:
 
 ![admit_type_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/admit_type_los.png?raw=true)
+
+**interactive website^**
 
 Plotting admit group against LOS:
 
