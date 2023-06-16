@@ -30,6 +30,6 @@ For the fourth prior, we got the following results:
 
 
 
-Next, we wanted to look specifically at the treatment group and how the different priors impacted the convergence of the data.
+Next, we wanted to look specifically at each group and how the different priors impacted the convergence of the data.
 
-[Treatment Priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/05-Treatment_Priors.md)
+[Individual Group Priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/04-Individual_Group_Priors.md)
