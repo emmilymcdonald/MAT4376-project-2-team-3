@@ -10,7 +10,7 @@ Now we wanted to take a closer look at each of the groups and their conversion r
 
 After that, we decided we wanted to look further into the dataset and see what would happen if we started with different initial (prior) beliefs.
 
-[Priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/04-All_Priors.md)
+[Priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/03-All_Priors.md)
 
 From the work above, we still had some questions about the behave of the data. We then decided to look into how each group behaved with the same four initial (prior) beliefs. 
 
