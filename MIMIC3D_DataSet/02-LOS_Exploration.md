@@ -22,8 +22,6 @@ Plotting admit type against LOS:
 
 ![admit_type_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/admit_type_los.png?raw=true)
 
-**interactive website^**
-
 Plotting admit group against LOS:
 
 ![admit_group_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/admit_group_los.png?raw=true)
