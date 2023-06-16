@@ -1,1 +1,6 @@
-[{"admit_type":"ELECTIVE","LOS":"7706"},{"admit_type":"EMERGENCY","LOS":"42071"},{"admit_type":"NEWBORN","LOS":"7863"},{"admit_type":"URGENT","LOS":"1336"}]
+[
+  { name: "ELECTIVE", LOS: "7706", fill:"#877aff"},
+  { name: "URGENT", LOS: "1336", fill:"#ef8a6e"},
+  { name: "EMERGENCY", LOS: "42071", fill:"#ce2f7f"},
+  { name: "NEWBORN", LOS: "7863", fill:"#5a6e93"}
+]
