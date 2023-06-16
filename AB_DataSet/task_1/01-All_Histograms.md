@@ -16,6 +16,6 @@ There is an overall uniform distribution for both graphs.
 Graph 1 shows the time both the control and treatment groups accessed the website and were converted.
 Graph 2 shows the days both the control and treatment groups accessed the website and were converted, with the lowest values on the first and end date. 
 
-Next, we will look into each group on its own starting with the treatment group.
+Next, we will look into each group on its own and look at the number of converted users.
 
 [Both Groups](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/02-Individual_Group_Bubbles.md)
