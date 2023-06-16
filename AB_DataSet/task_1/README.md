@@ -6,9 +6,7 @@ We began by looking at the dataset to see if the hour or day of the timestamp ha
 
 Now we wanted to take a closer look at each of the groups and their conversion rates.
 
-[Treatment Histograms](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/02-Treatment_Histograms.md)
-
-[Control Histograms](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/03-Control_Histograms.md)
+[Individual Groups](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/02-Individual_Group_Bubbles.md)
 
 After that, we decided we wanted to look further into the dataset and see what would happen if we started with different initial (prior) beliefs.
 
