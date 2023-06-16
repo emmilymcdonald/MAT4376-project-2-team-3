@@ -1,8 +1,10 @@
 # Using rbinom to Simulate a Bayesian AB Test for the AB Dataset
 
-**maybe split up into three separate graphs??**
+![rbinom_old](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbinom_old.png?raw=true)
 
-![rbinom](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbinom.png?raw=true)
+![rbinom_new](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbinom_new.png?raw=true)
+
+![rbinom_success](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbinom_success.png?raw=true)
 
 
 
@@ -10,7 +12,11 @@ Lastly, we again want to follow the code from Example 12 provided on the course 
 
 # Using rbetabinom to Simulate a Bayesian AB Test for the AB Dataset
 
-![rbetabinom](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbetabinom.png?raw=true)
+![rbetabinom_old](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbetabinom_old.png?raw=true)
+
+![rbetabinom_new](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbetabinom_new.png?raw=true)
+
+![rbetabinom_success](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbetabinom_success.png?raw=true)
 
 
 
