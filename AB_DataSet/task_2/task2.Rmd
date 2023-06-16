@@ -36,21 +36,9 @@ sim.data <- as.data.frame( t(sapply(1:n.draws, function(i) {
 posterior <- prior[sim.data$visitors.old == 1 & sim.data$visitors.new == 1,]
 
 # Visualize the posteriors
-par(mfrow = c(2,3))
-hist(c(posterior$p.old), main = "Posterior -- old page", xlab="p.old")
-hist(c(posterior$p.new), main = "Posterior -- new page", xlab="p.new")
-plot(posterior,main = "Success for old and new pages", xlab="p.old", ylab="p.new")
-
-# Compute the estimated average profit per mailing
-avg.profit.old <- -30 + posterior$p.old * 1000
-avg.profit.new <- -300 + posterior$p.new * 1000
-hist(avg.profit.old, main = "Average Profit -- old page", xlab="profit.old")
-hist(avg.profit.new, main = "Average Profit -- new page", xlab="profit.new")
-
-# Total expected profit
-hist(avg.profit.old - avg.profit.new, main="Posterior -- profit old - profit new")
-expected.avg.profit.diff <- mean(avg.profit.old - avg.profit.new)
-abline(v = expected.avg.profit.diff , col = "red", lwd =2)
+hist(c(posterior$p.old), main = "Posterior -- old page", xlab="p.old",col = "#877aff")
+hist(c(posterior$p.new), main = "Posterior -- new page", xlab="p.new", col = "#877aff")
+plot(posterior,main = "Success for old and new pages", xlab="p.old", ylab="p.new", col = "#877aff")
 ```
 
 ```{r}
@@ -84,19 +72,7 @@ sim.data <- as.data.frame( t(sapply(1:n.draws, function(i) {
 posterior <- prior[sim.data$visitors.old == 1 & sim.data$visitors.new == 1,]
 
 # Visualize the posteriors
-par(mfrow = c(2,3))
-hist(c(posterior$p.old), main = "Posterior -- old page", xlab="p.old")
-hist(c(posterior$p.new), main = "Posterior -- new page", xlab="p.new")
-plot(posterior,main = "Success for page types old and new", xlab="p.old", ylab="p.new")
-
-# Compute the estimated average profit per mailing
-avg.profit.old <- -30 + posterior$p.old * 1000
-avg.profit.new <- -300 + posterior$p.new * 1000
-hist(avg.profit.old, main = "Average Profit -- old page", xlab="profit.old")
-hist(avg.profit.new, main = "Average Profit -- new page", xlab="profit.new")
-
-# Total expected profit
-hist(avg.profit.old - avg.profit.new, main="Posterior -- profit old - profit new")
-expected.avg.profit.diff <- mean(avg.profit.old - avg.profit.new)
-abline(v = expected.avg.profit.diff , col = "red", lwd =2)
+hist(c(posterior$p.old), main = "Posterior -- old page", xlab="p.old", col = "#877aff")
+hist(c(posterior$p.new), main = "Posterior -- new page", xlab="p.new", col = "#877aff")
+plot(posterior,main = "Success for old and new pages", xlab="p.old", ylab="p.new", col = "#877aff")
 ```
