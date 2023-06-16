@@ -28,4 +28,4 @@ Interactive Day:
 
 Now that we have a general idea of how the data looks, we want to use a different method on the dataset and look at different initial (prior) beliefs and see if they impact how the posterior probability distribution converges (if it does). 
 
-[Priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/04-All_Priors.md)
+[Priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/03-All_Priors.md)
