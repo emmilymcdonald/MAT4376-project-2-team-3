@@ -16,6 +16,4 @@ After that, we decided we wanted to look further into the dataset and see what w
 
 From the work above, we still had some questions about the behave of the data. We then decided to look into how each group behaved with the same four initial (prior) beliefs. 
 
-[Priors with the Treatment Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/05-Treatment_Priors.md)
-
-[Priors with the Control Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/06-Control_Priors.md)
+[Priors For Each Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/04-Individual_Group_Priors.md)
