@@ -12,11 +12,11 @@ Lastly, we again want to follow the code from Example 12 provided on the course 
 
 # Using rbetabinom to Simulate a Bayesian AB Test for the AB Dataset
 
-![rbetabinom_old](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbetabinom_old.png?raw=true)
+![rbetabinom_old](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbeta_old.png?raw=true)
 
-![rbetabinom_new](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbetabinom_new.png?raw=true)
+![rbetabinom_new](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbeta_new.png?raw=true)
 
-![rbetabinom_success](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbetabinom_success.png?raw=true)
+![rbetabinom_success](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbeta_success.png?raw=true)
 
 
 
