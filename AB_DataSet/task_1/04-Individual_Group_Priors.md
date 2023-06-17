@@ -1,6 +1,6 @@
 # Looking at Each Group with Different Prior Beliefs
 
-**Looking into how an increase in treatment data points causes four different priors all to converge to the same median**
+### Looking into how an increase in treatment data points causes four different priors all to converge to the same median
 
 Now, we want to just take a look at the treatment group to see whether or not there is a value of convergence and if so, at what number of users does this occur. We took 12 subsets of 100 random treatment data points and looked into their convergence with those same four initial priors from the previous page:
 
