@@ -4,45 +4,75 @@ Plotting LOSdays as a density function:
 
 ![los_density](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/los_density.png?raw=true)
 
-Average length of stay (in days): 10.11495
+The average length of stay (in days): 10.11495
 
-Plotting age against LOS:
+## Plotting age by admit type against LOS (omitting newborns):
 
-![age_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/age_los.png?raw=true)
+<!--- ![age_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/age_los.png?raw=true) -->
 
-Plotting age group against LOS:
+https://368rhr.csb.app/
 
-![age_group_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/age_group_los.png?raw=true)
+## Plotting age group against LOS:
 
-Plotting gender against LOS:
+<!--- ![age_group_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/age_group_los.png?raw=true) --> 
 
-![gender_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/gender_los.png?raw=true)
+Looking at the maximum LOS by age group: 
 
-Plotting admit type against LOS:
+https://zn7dfy.csb.app/
 
-![admit_type_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/admit_type_los.png?raw=true)
+Looking at the count of LOS by age group:
 
-Plotting admit group against LOS:
+https://7xct56.csb.app/
+
+## Plotting gender against LOS by admit type:
+
+<!--- ![gender_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/gender_los.png?raw=true) -->
+
+https://rg9whm.csb.app/
+
+## Plotting the admit type against LOS:
+
+<!--- ![admit_type_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/admit_type_los.png?raw=true) -->
+
+https://3h32v9.csb.app/
+
+## Plotting the admit group against LOS:
+
+*(Hover over the graph to see what each group outputs)*
 
 <!--- ![admit_group_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/admit_group_los.png?raw=true) -->
 
 https://jkksjv.csb.app/
 
-Plotting the number of callouts against LOS:
+## Plotting the admit group by admit type against LOS:
 
-![numcallouts_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numcallouts_los.png?raw=true)
+*(Hover over the graph to see what each group outputs)*
 
-Plotting the number of diagnoses against LOS:
+https://6mdqy2.csb.app/
 
-![numdiag_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numdiag_los.png?raw=true)
+## Plotting the number of callouts against LOS (omitting the outlier of 30,000 callouts at 0 LOS):
 
-Plotting the number of prescriptions against LOS:
+<!--- ![numcallouts_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numcallouts_los.png?raw=true) -->
 
-![numrx_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numrx_los.png?raw=true)
+https://38dt62.csb.app/ 
 
-Plotting the number of transfers against LOS:
+## Plotting the number of diagnoses against LOS:
 
-![numtran_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numtran_los.png?raw=true)
+<!--- ![numdiag_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numdiag_los.png?raw=true) -->
+
+https://dhl7h3.csb.app/ 
+
+## Plotting the number of prescriptions against LOS:
+
+<!--- ![numrx_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numrx_los.png?raw=true) -->
+
+https://pvgjc8.csb.app/
+
+## Plotting the number of transfers against LOS:
+
+<!--- ![numtran_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numtran_los.png?raw=true) -->
+
+https://v9lcj8.csb.app/
 
 
 
