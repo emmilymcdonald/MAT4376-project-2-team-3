@@ -6,7 +6,7 @@ First, we wanted to look into how many users were converted per hour of the day,
 
 <!--- Bubble: https://6tz4sh.csb.app/ -->
 
-https://xgw2jr.csb.app/
+<iframe src="https://xgw2jr.csb.app/" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 4 / 3;"></iframe>
 
 <!--- Bar: https://2vvdht.csb.app/ -->
 
