@@ -26,25 +26,21 @@ For the first prior, we got the following results:
 
 ![priors1 - all](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/prior1_all.png?raw=true)
 
-
-
 For the second prior, we got the following results:
 
 ![priors2 - all](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/prior2_all.png?raw=true)
-
-
 
 For the third prior, we got the following results:
 
 ![priors3 - all](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/prior3_all.png?raw=true)
 
-
-
 For the fourth prior, we got the following results:
 
 ![priors4 - all](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/prior4_all.png?raw=true)
 
+For all four priors, you can see that by 1024 users the distribution is consistently centred relatively above 0.45. This means that when looking at the entire dataset, it doesn't matter what initial belief you impose on the distribution of the data it will always converge to around the same value. 
 
+# 
 
 Next, we wanted to look specifically at each group and how the different priors impacted the convergence of the data.
 
