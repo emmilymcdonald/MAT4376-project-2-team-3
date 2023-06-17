@@ -1,5 +1,7 @@
 # Simulating a Bayesian AB Test
 
+In the following two simulations, we are assuming around a 12% conversion rate and will use that rate as the base distribution for the simulations. 
+
 ### Using rbinom to Simulate a Bayesian AB Test for the AB Dataset
 
 ![rbinom_old](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/rbinom_old.png?raw=true)
