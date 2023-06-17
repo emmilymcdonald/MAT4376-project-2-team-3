@@ -21,8 +21,12 @@ There are 5 main sections in this repository, meaning there is a section for eac
 
 ## Project Tasks
 
-Located in the "[Issues](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/issues)" section. Each task has an "assignee", or the person the task was completed by. Tasks with multiple assignees were completed in collaboration. There is a filter on the top right to look at specific assignees and what they have worked on.
+Located in the "[Issues](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/issues)" section. Each task has an "assignee", or the person who completed the task. Tasks with multiple assignees were completed in collaboration. There is a filter on the top right to look at specific assignees and what they have worked on.
 
 ## Datasets, Functions, and More!
 
 Throughout the website, you will have access to the datasets and the codes we used to produce our results. Feel free to take a look although it is not necessary to generally understand our results. 
+
+## Sources for Data Dictionary
+  * [Trends and Applications in Formation Systems and Technologies: Volume 4 (p. 290)](https://books.google.ca/booksid=jj8mEAAAQBAJ&pg=PA290&lpg=PA290&dq=NumDiagnosis+NumProcs+AdmitProcedure+NumCPTevents+NumInput+NumLabs+NumMicroLabs+NumNotes+NumOutput+NumRx+NumProcEvents+NumTransfers+NumChartEvents+ExpiredHospital+TotalNumInteract+LOSgroupNum&source=bl&ots=7mYlsmHXYF&sig=ACfU3U1uUnfWBGQcDTwSHTcxvscV6slJAQ&hl=en&sa=X&ved=2ahUKEwjNudzL6q7_AhX4jokEHS-pDZEQ6AF6BAggEAM#v=onepage&q=NumDiagnosis%20NumProcs%20AdmitProcedure%20NumCPTevents%20NumInput%20NumLabs%20NumMicroLabs%20NumNotes%20NumOutput%20NumRx%20NumProcEvents%20NumTransfers%20NumChartEvents%20ExpiredHospital%20TotalNumInteract%20LOSgroupNum&f=false)
+  * [Proceedings of the 7th International Conference on the Applications of Science and Mathematics 2021 (p. 372)](https://books.google.ca/books?id=5qd3EAAAQBAJ&pg=PA372&lpg=PA372&dq=medical+dataset+glossary+NumMicroLabs%09NumNotes%09NumOutput%09NumRx%09NumProcEvents&source=bl&ots=lTXPeFn_3w&sig=ACfU3U0WBIhArvTx6bFen5EdG_QsSIq_ug&hl=en&sa=X&ved=2ahUKEwiz0ZGa8a7_AhVbkYkEHVRTC8oQ6AF6BAgIEAM#v=onepage&q=medical%20dataset%20glossary%20NumMicroLabs%09NumNotes%09NumOutput%09NumRx%09NumProcEvents&f=false)
