@@ -24,7 +24,9 @@ Plotting admit type against LOS:
 
 Plotting admit group against LOS:
 
-![admit_group_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/admit_group_los.png?raw=true)
+<!--- ![admit_group_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/admit_group_los.png?raw=true) -->
+
+https://jkksjv.csb.app/
 
 Plotting the number of callouts against LOS:
 
