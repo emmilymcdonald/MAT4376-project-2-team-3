@@ -1,6 +1,6 @@
 # Looking specifically into those that have a high correlation with LOS 
 
-Plotting LOSdays as a density function:
+## Plotting LOSdays as a density function:
 
 ![los_density](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/los_density.png?raw=true)
 
