@@ -42,10 +42,10 @@ Test 8:
 
 <!--- ![test10treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/treatment_images/test10treatment.png?raw=true) -->
 
-By the 8th test, the lower bound for the HDI interval sat between 0.93 and 0.95 and the upper bound sat between 0.136 and 0.141. The lower and upper bounds sat in this region for tests 6-8, and even stay consistent after (although those tests are not included due to repetitiveness). 
+By the 8th test, the lower bound for the HDI interval sat between 0.93 and 0.95 and the upper bound sat between 0.136 and 0.141. The lower and upper bounds sat in this region for tests 6-8, and even stay consistent after (although those tests are not included due to repetitiveness). This means that by test 8 (or 800 random data points), the size of the data is irrelevant and the posterior will converge to a mean between 0.93 and 0.141 consistently. 
 
 # 
 
-Now, we want to do the same analysis using the same method but on the control group to see where things change. 
+Now, we want to do the same analysis using the same method but on the control group to see if/where things change. 
 
 [BernBeta for the Control Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/02-BernBeta_Control.md)
