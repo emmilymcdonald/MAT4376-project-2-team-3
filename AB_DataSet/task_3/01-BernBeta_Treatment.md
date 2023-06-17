@@ -1,6 +1,6 @@
 # Using the BernBeta Function to Look at the Posteriors for the Treatment Group and Determine Possible Convergence
 
-We performed 8 tests using BernBeta on the treatment group when the results from the previous test were used as the base for the next test. The data points from each random sample that was taken were removed from the dataset so that duplicates in the simulation were avoided. The results are as follows:
+We performed 8 tests using BernBeta on the treatment group when the results from the previous test were used as the base for the next test. The data points from each random sample that was taken were removed from the dataset so that duplicates in the simulation were avoided. We will assume a 12% conversion rate for the treatment group and will use that as our first base. The results are as follows:
 
 Test 1: 
 
@@ -42,7 +42,7 @@ Test 8:
 
 <!--- ![test10treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/treatment_images/test10treatment.png?raw=true) -->
 
-By the 8th test, 
+By the 8th test, the lower bound for the HDI interval sat between 0.93 and 0.95 and the upper bound sat between 0.136 and 0.141. The lower and upper bounds sat in this region for tests 6-8, and even stay consistent after (although those tests are not included due to repetitiveness). 
 
 # 
 
