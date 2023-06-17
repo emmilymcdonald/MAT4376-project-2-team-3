@@ -12,7 +12,7 @@ In addition to the datasets above, we also used the following subsets for task 1
 
 ## How This Website Works
 
-There are 5 main sections in this repository, meaning there is a section for each of the 5 assigned tasks. If you follow the first link below, you will be able to maneuver continuously throughout this website. Hover over the graphs for an interactive experience! 
+There are 5 main sections in this repository, meaning there is a section for each of the 5 assigned tasks. If you follow the first link below, you will be able to maneuver continuously throughout this website. **Hover over the graphs for an interactive experience!**
   * Task 1: [Visualizing and Exploring the AB Dataset](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/README.md)
   * Task 2: [Bayesian AB Testing of the AB Dataset](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/README.md)
   * Task 3: [Performing Inference and Finding Posteriors Probabilities of Random Subsets of the AB Dataset](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/README.md)
