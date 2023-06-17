@@ -20,7 +20,7 @@ For the fourth prior, we got the following results:
 
 ![priors4 - treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/prior4_treatment.png?raw=true)
 
-
+Notice a similar behaviour in the results above as on the previous page. Prior 1 converged to a value around 0.45 by 128 users; prior 2 by 512 users; prior 3 almost immediately; and prior 4 by 128 users. The treatment group converges to the same point and by the same number of users as in the overall dataset. 
 
 **Looking into how an increase in control data points causes four different priors all to converge to the same value**
 
@@ -42,7 +42,7 @@ For the fourth prior, we got the following results:
 
 ![priors4 - control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/prior4_control.png?raw=true)
 
-
+You'll notice a similar behaviour in the 4 results above as those on the previous page. Prior 1 converged to a value around 0.45 by 128 users; prior 2 by 512 users; prior 3 almost immediately; and prior 4 by 128 users. The control group converges to the same point and by the same number of users as in the overall dataset and those in the treatment group. This means that no matter what group you belong to and no matter what prior beliefs you have, the data will always converge to a normal distribution with a mean of around 0.45. 
 
 # 
 
