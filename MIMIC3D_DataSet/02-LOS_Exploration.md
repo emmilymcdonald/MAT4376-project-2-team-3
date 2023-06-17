@@ -50,7 +50,7 @@ https://jkksjv.csb.app/
 
 https://6mdqy2.csb.app/
 
-## Plotting the number of callouts against LOS (omitting the outlier of 30,000 callouts at 0 LOS):
+## Plotting the number of callouts against LOS (omitting the outlier of 30,248 callouts at 0 days LOS):
 
 <!--- ![numcallouts_los](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/numcallouts_los.png?raw=true) -->
 
