@@ -1,6 +1,6 @@
 # AB Testing to Simulate the AB Dataset
 
-We were tasked with doing a Bayesian AB Test to simulate the dataset we were given. We took two different routes to simulate this. The first method involved the bayesAB library in R, where we simulated both 290,585 random samples to simulate the original quantity in the AB dataset as well as 100 random samples.
+We were tasked with doing a Bayesian AB Test to simulate the dataset we were given. We took two different routes to simulate this. The first method involved the bayesAB library in R, where we simulated both 290,585 random samples to simulate the original quantity in the AB dataset as well as 100 random samples. *(We recommend starting with this page)*
 
 [AB Testing](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/01-AB_Testing.md)
 
