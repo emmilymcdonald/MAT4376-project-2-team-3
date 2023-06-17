@@ -1,10 +1,26 @@
-# Looking into how an increase in datapoints causes four different priors all to converge to the same median
+# Looking into how an increase in data points causes four different priors all to converge to the same median
 
-Next, we decided we wanted to switch gears and look into how different priors will converge based on the number of datapoints pulled. 
+Next, we decided we wanted to switch gears and look into how different priors will converge based on the number of data points pulled. 
 
-First, we took 12 subsets of 100 random datapoints, of either group, and looked into their convergence with the following four initial priors:
+First, we took 12 subsets of 100 random data points of either group and looked into their convergence with the following four initial priors:
 
-![priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/priors.png?raw=true)
+<!--- ![priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/priors.png?raw=true) -->
+
+Prior 1: 
+
+https://59p5dm.csb.app/
+
+Prior 2:
+
+https://sg2srd.csb.app/
+
+Prior 3: 
+
+https://3vqsmr.csb.app/
+
+Prior 4: 
+
+https://mtpjc3.csb.app/
 
 For the first prior, we got the following results:
 
