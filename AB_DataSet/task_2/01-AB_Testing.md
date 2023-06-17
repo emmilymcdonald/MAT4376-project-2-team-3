@@ -39,6 +39,8 @@ https://5yxnmt.csb.app/
 
 
 
-Next, we want to switch gears a little bit and change the method we used for our Bayesian AB Test. We followed the code from Example 12 provided on the course webpage. We will use rbinom to generate our random samples in the next simulation.
+# 
+
+Next, we want to switch gears a little bit and change the method we used for our Bayesian AB Test. In this next section, we followed the code from Example 12. We will use rbinom and rbetabinom to generate our random samples in the simulation.
 
 [RBINOM/RBETABINOM](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/02-rbinom_rbetabinom.md)
