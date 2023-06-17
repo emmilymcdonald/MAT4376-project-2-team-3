@@ -1,6 +1,6 @@
 # Using the BernBeta Function to Look at the Posteriors for the Control Group and Determine Possible Convergence
 
-We performed 8 tests using BernBeta on the control group when the results from the previous test were used as the base for the next test. Once again, we took the data points from each random sample that was taken and were removed from the dataset so that duplicates in the simulation were avoided. We will assume a 12% conversion rate for the control group. The results are as follows:
+We performed 8 tests using BernBeta on the control group when the results from the previous test were used as the prior for the next test. Once again, we took the data points from each random sample that was taken and were removed from the dataset so that duplicates in the simulation were avoided. We will assume a 12% conversion rate for the control group, which will be used as our initial prior. The results are as follows:
 
 Test 1: 
 
