@@ -1,6 +1,6 @@
 # Initial Exploration and Analysis of the AB Dataset
 
-We began by looking at the dataset to see if the hour or day of the timestamp had an effect on the number of people who were converted. A user who has been **converted** is one who has signed up for the new page. *(We recommend starting with the following page to see the process through our eyes)*
+We began by looking at the dataset to see if the hour or day of the timestamp had an effect on the number of people who were converted. The **conversion rate** is the proportion of users who signed up or took other action (outside of the two pages being reported on). *(We recommend starting with the following page to see the process through our eyes)*
 
 [All Histograms](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/01-All_Histograms.md)
 
