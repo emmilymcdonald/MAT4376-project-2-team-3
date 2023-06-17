@@ -34,13 +34,13 @@ Test 8:
 
 ![test8control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test8control.png?raw=true)
 
-Test 9: 
+<!--- Test 9: -->
 
-![test9control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test9control.png?raw=true)
+<!--- ![test9control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test9control.png?raw=true) -->
 
-Test 10: 
+<!--- Test 10: -->
 
-![test10control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test10control.png?raw=true)
+<!--- ![test10control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test10control.png?raw=true) -->
 
 
 
