@@ -9,3 +9,7 @@ Then, we used a similar method to that of Example 12, provided on the course web
 [RBINOM and RBETABINOM](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/02-rbinom_rbetabinom.md)
 
 *Note about rbetabinom: this function gives a random sample/generation that simulates a beta-binomial distribution. In this function, you provide n number of draws, k number of trials, alpha, and beta. *
+
+# 
+
+[Home Page](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/README.md)
