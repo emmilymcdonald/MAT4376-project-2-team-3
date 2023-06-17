@@ -1,6 +1,6 @@
 # Using the BernBeta Function to Look at the Posteriors for the Control Group and Determine Possible Convergence
 
-We then performed 10 tests using BernBeta on the control group when the results from the previous test were used as the base in the next test. Once again, we took the datapoints from each random sample that was taken were removed from the dataset so that duplicates in the simulation were avoided. The results are as follows:
+We performed 8 tests using BernBeta on the control group when the results from the previous test were used as the base for the next test. Once again, we took the data points from each random sample that was taken and were removed from the dataset so that duplicates in the simulation were avoided. The results are as follows:
 
 Test 1: 
 
@@ -43,6 +43,8 @@ Test 8:
 <!--- ![test10control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/control_images/test10control.png?raw=true) -->
 
 
+
+# 
 
 Now, we want to completely change the direction of our analysis and focus on a new dataset, called MIMIC3D.
 
