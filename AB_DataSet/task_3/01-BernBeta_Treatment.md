@@ -1,6 +1,6 @@
 # Using the BernBeta Function to Look at the Posteriors for the Treatment Group and Determine Possible Convergence
 
-We performed 10 tests using BernBeta on the treatment group when the results from the previous test were used as the base in the next test. The datapoints from each random sample that was taken were removed from the dataset so that duplicates in the simulation were avoided. The results are as follows:
+We performed 8 tests using BernBeta on the treatment group when the results from the previous test were used as the base for the next test. The data points from each random sample that was taken were removed from the dataset so that duplicates in the simulation were avoided. The results are as follows:
 
 Test 1: 
 
@@ -30,19 +30,21 @@ Test 7:
 
 ![test7treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/treatment_images/test7treatment.png?raw=true)
 
-Test 8: 
+Test 8:
 
 ![test8treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/treatment_images/test8treatment.png?raw=true)
 
-Test 9: 
+<!--- Test 9: -->
 
-![test9treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/treatment_images/test9treatment.png?raw=true)
+<!--- ![test9treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/treatment_images/test9treatment.png?raw=true) -->
 
-Test 10: 
+<!--- Test 10: -->
 
-![test10treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/treatment_images/test10treatment.png?raw=true)
+<!--- ![test10treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/treatment_images/test10treatment.png?raw=true) -->
 
+By the 8th test, 
 
+# 
 
 Now, we want to do the same analysis using the same method but on the control group to see where things change. 
 
