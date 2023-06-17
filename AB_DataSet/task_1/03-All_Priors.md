@@ -38,7 +38,7 @@ For the fourth prior, we got the following results:
 
 ![priors4 - all](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/prior4_all.png?raw=true)
 
-For all four priors, you can see that by 1024 users the distribution is consistently centred relatively above 0.45. This means that when looking at the entire dataset, it doesn't matter what initial belief you impose on the distribution of the data it will always converge to around the same value. 
+For all four priors, you can see that by 1024 users the distribution is consistently centred relatively above 0.45. This means that when looking at the entire dataset, it doesn't matter what initial belief you impose on the distribution of the data it will always converge to around the same value. Prior 1 becomes centred around 0.45 after 64 users; prior 2 becomes centred around 0.45 after 512 users; prior 3 becomes centred around 0.45 almost immediately (after 1 user); and prior 4 becomes centred around 0.45 after 128 users. All users are centred around this *value of convergence* by 512 users, and the next iteration to 1024 users only decreases the deviation away from the value. 
 
 # 
 
