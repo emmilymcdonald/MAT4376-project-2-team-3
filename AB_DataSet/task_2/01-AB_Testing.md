@@ -5,7 +5,7 @@
 
 https://5yxnmt.csb.app/
 
-The Beta Distribution has a skewed distribution, therefore there is a higher probability of observing values closer to 0.25 and 0. The highest probability value for the conversion rate is approximately 0.125, with more certainity due to it's pointed peak.
+The AB Beta Probability Density Function reveals a skewed distribution, indicating a higher likelihood of observing values closer to 0.25 and 0. The conversion rate exhibits its highest probability value at approximately 0.125, with a more pronounced peak that signifies increased certainty.
 
 
 # Simulating the AB Dataset by Taking 290,585 Random Samples
@@ -16,7 +16,7 @@ The Beta Distribution has a skewed distribution, therefore there is a higher pro
 
 https://9fv2vh.csb.app/
 
-Because the curves overlap slightly, it indicates a potential difference in performance between the landing pages' conversion rates. Because both curves are the same height, we can expect the same probabilty for observing their respective conversion rates. 
+In the AB Posterior Test, a slight overlap between the curves suggests a potential difference in performance between the conversion rates of the landing pages. Notably, both curves are of equal height, indicating an equal probability of observing their respective conversion rates.
 
 
 ## AB Histogram of the mean
@@ -25,7 +25,7 @@ Because the curves overlap slightly, it indicates a potential difference in perf
 
 https://qdv5vp.csb.app/
 
-Indicates the most uplift peaks which is at 2.5%. Also, the posterior mass, which accounts for 99.2% of the samples is above 0, indicating that we can be 99.2% certain that there is a higher likelyhood of individuals converting using the new page. 
+The AB Histogram of the mean highlights a prominent uplift peak at 2.5%, representing the most significant improvement observed. Furthermore, with a posterior mass accounting for 99.2% of the samples above 0, we can be highly confident, with 99.2% certainty, that there is a substantial increase in the likelihood of individuals converting when using the new page.
 
 # Simulating the AB Dataset but with only 100 Random Samples
 
