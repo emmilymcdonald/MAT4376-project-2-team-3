@@ -6,18 +6,24 @@
 
 https://9fv2vh.csb.app/
 
+Because the curves overlap slightly, it indicates a potential difference in performance between the landing pages' conversion rates. Because both curves are the same height, we can expect the same probabilty for observing their respective conversion rates. 
+
+
 ## AB Beta Probability Density Function
 
 <!--- ![AB Beta Probability Density Function](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_BetaProb_DensityFunction.png?raw=true) -->
 
 https://5yxnmt.csb.app/
 
+The Beta Distribution has a skewed distribution, therefore there is a higher probability of observing values closer to 0.25 and 0. The highest probability value for the conversion rate is approximately 0.125, with more certainity due to it's pointed peak.
 
 ## AB Histogram of the mean
 
 <!--- ![AB Histogram of the mean](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_hist_of_mean.png?raw=true) -->
 
 https://qdv5vp.csb.app/
+
+Indicates the most uplift peaks which is at 2.5%. Also, the posterior mass, which accounts for 99.2% of the samples is above 0, indicating that we can be 99.2% certain that there is a higher likelyhood of individuals converting using the new page. 
 
 # Simulating the AB Dataset but with only 100 Random Samples
 
