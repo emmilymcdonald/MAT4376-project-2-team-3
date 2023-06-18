@@ -66,7 +66,7 @@ The admission group with the most number of patients was 'certain conditions ori
 
 ### Plotting the Admission Group by Admission Type Against LOS:
 
-*(Hover over the graph to see what each group outputs)*
+*(Hover over the graph and scroll to see what each group outputs)*
 
 https://6mdqy2.csb.app/
 
