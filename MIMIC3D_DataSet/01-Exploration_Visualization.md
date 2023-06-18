@@ -2,7 +2,7 @@
 
 Before we dove into our exploration, we first needed to determine what each of the variables was in the provided dataset. We compiled the following data dictionary. Take a look at the following link if you want to learn more about the specific variables. 
 
-[Data Dictionary](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/tree/master/MIMIC3D_DataSet)
+[Data Dictionary](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/Data_Dictionary.pdf)
 
 ### Heat Chart for Mimic3D dataset
 
