@@ -30,13 +30,13 @@ Histogram of the number of converted users by the hour:
 
 <!--- ![histogram - hour - treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/hist_day_converted_treatment.png?raw=true) -->
 
-https://rxq8y4.csb.app/
+https://2njldw.csb.app/
 
 Histogram of the number of converted users by day:
 
 <!---![histogram - day - treatment](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/hist_hour_converted_treatment.png?raw=true) -->
 
-https://2njldw.csb.app/
+https://rxq8y4.csb.app/
 
 **Converted Users For The Control Group**
 
