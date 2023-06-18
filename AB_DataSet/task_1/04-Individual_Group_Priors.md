@@ -44,7 +44,7 @@ For the fourth prior, we got the following results:
 
 You'll notice a similar behaviour in the 4 results above as those on the previous page. Prior 1 converged to a value around 0.45 by 128 users; prior 2 by 512 users; prior 3 almost immediately; and prior 4 by 128 users. The control group converges to the same point and by the same number of users as in the overall dataset and those in the treatment group. This means that no matter what group you belong to and no matter what prior beliefs you have, the data will always converge to a normal distribution with a mean of around 0.45. 
 
-# 
+---
 
 Now we will switch gears and look into AB Testing of the dataset.
 
