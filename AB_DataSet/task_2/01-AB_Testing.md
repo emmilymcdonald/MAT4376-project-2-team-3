@@ -1,4 +1,4 @@
-# General AB Testing on the AB_Data
+# General AB Testing on AB_Data
 ## AB Beta Probability Density Function
 
 <!--- ![AB Beta Probability Density Function](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_BetaProb_DensityFunction.png?raw=true) -->
