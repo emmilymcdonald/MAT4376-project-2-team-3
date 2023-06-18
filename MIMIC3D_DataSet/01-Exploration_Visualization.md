@@ -1,8 +1,8 @@
 ## Initial Look and Exploration of the Mimic3D Dataset
 
-Before we dove into our exploration, we first needed to determine what each of the variables was in the provided dataset. We compiled the following data dictionary. 
+Before we dove into our exploration, we first needed to determine what each of the variables was in the provided dataset. We compiled the following data dictionary. Take a look at the following link if you want to learn more about the specific variables. 
 
-
+[Data Dictionary](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/tree/master/MIMIC3D_DataSet)
 
 ### Heat Chart for Mimic3D dataset
 
@@ -31,7 +31,9 @@ The following variables were found to have high correlations with the LOSdays va
  * NumTransfers
  * LOSGroupNum (this one we will not be looking into as it is just a categorization of the LOSdays variable)
 
-# 
+We decided we wanted to look further into the variables above. 
+
+---
 
 With the second set of variables above in mind, we wanted to dive further into the variables to see if we can determine what might be closely related to the number of days a patient stays in the hospital and if we are able to use those variables in the future to possibly predict the length of say of a patient. 
 
