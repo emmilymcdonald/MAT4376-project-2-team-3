@@ -46,7 +46,7 @@ https://2ypnrl.csb.app/
 
 The histogram depicts the mean values for the A/B test (100 samples). The value of 2.2% indicates a 98% probability that the conversion rate for the new page is greater than the conversion rate for the old page.
 
-# 
+---
 
 Next, we want to switch gears a little bit and change the method we used for our Bayesian AB Test. In this next section, we followed the code from Example 12. We will use rbinom and rbetabinom to generate our random samples in the simulation.
 
