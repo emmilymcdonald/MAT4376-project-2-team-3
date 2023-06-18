@@ -12,6 +12,6 @@ Lastly, we wanted to find the probability of staying longer than two days (i.e. 
 
 [Naive Bayes for Classification](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/tree/master/PATIENTS_DataSet)
 
-# 
+---
 
 [Home Page](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/README.md)
