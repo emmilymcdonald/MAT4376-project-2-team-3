@@ -44,4 +44,4 @@ For all four priors, you can see that by 1024 users the distribution is consiste
 
 Next, we wanted to look specifically at each group and how the different priors impacted the convergence of the data.
 
-[Individual Group Priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/04-Individual_Group_Priors.md)
+[Individual Group Priors](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/03-Individual_Group_Priors.md)
