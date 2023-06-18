@@ -9,3 +9,7 @@ We first took a look at all of the data to see some initial findings and what mi
 Then, we looked specifically at the variables that had a strong relationship (correlation) to the variable LOSdays in order to prepare ourselves for the next task. 
 
 [Exploration into Variables Related to Length of Stay (LOS)](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/02-LOS_Exploration.md)
+
+# 
+
+[Home Page](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/README.md)
