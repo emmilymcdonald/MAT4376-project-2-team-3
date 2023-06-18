@@ -44,13 +44,13 @@ Histogram of the number of converted users by the hour:
 
 <!--- ![histogram - hour - control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/hist_day_converted_control.png?raw=true) -->
 
-https://fzm9xm.csb.app/
+https://3vfzc7.csb.app/
 
 Histogram of the number of converted users by day:
 
 <!--- ![histogram - day - control](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/images/hist_hour_converted_control.png?raw=true) -->
 
-https://3vfzc7.csb.app/
+https://fzm9xm.csb.app/
 
 Looking at each of the histograms above, you'll notice that they are all still uniformly distributed for hours and days for both groups. Since all of the data we have seen so far is uniformly distributed, this may indicate that we need to do some Bayesian Analysis to find out what is going on. 
 
