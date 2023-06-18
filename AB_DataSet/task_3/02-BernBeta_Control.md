@@ -44,7 +44,7 @@ Test 8:
 
 By the 8th test, the lower bound for the HDI interval sat between 0.94 and 0.97 and the upper bound sat between 0.136 and 0.141. The lower and upper bounds sat in this region for tests 5-8, and even stay consistent after (although those tests are not included due to repetitiveness). This means that by test 8 (or 800 random data points), the size of the data is irrelevant and the posterior will converge to a mean between 0.94 and 0.141 consistently. This is a similar outcome to that of the treatment group, and since the distributions of both groups were uniform and they had similar conversion rates, it is to be expected.  
 
-# 
+---
 
 Now, we want to completely change the direction of our analysis and focus on a new dataset, called MIMIC3D.
 
