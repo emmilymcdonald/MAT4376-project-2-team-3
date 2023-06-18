@@ -26,7 +26,7 @@ In this next simulation, we will be using rbetabinom to simulate a Bayesian AB t
 
 The old page has around an average success rate of 16.7% and the new page has around an average success rate of 16.4%. This is consistent with the success rates when using a random binomial distribution to run the simulation. 
 
-# 
+---
 
 Now, we want to switch gears a little bit and focus on performing inference on the AB dataset and determining whether or not the dataset converges in its posterior probabilities. 
 
