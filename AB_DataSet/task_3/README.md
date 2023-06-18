@@ -8,6 +8,6 @@ Using the BernBeta function, we decided to look into the two groups separately. 
 
 [BernBeta for the Control Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_3/02-BernBeta_Control.md)
 
-# 
+---
 
 [Home Page](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/README.md)
