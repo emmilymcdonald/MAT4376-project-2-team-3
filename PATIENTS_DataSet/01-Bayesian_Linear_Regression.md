@@ -2,7 +2,7 @@
 
 
 
-# 
+--- 
 
 Next, we wanted to classify the patients using Naive Bayes Classification. 
 
