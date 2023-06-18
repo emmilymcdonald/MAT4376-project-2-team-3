@@ -16,6 +16,6 @@ From the work above, we still had some questions about the behaviour of the data
 
 [Priors For Each Group](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/04-Individual_Group_Priors.md)
 
-# 
+---
 
 [Home Page](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/README.md)
