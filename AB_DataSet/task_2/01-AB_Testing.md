@@ -1,3 +1,13 @@
+# General AB Testing on the AB_Data
+## AB Beta Probability Density Function
+
+<!--- ![AB Beta Probability Density Function](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_BetaProb_DensityFunction.png?raw=true) -->
+
+https://5yxnmt.csb.app/
+
+The Beta Distribution has a skewed distribution, therefore there is a higher probability of observing values closer to 0.25 and 0. The highest probability value for the conversion rate is approximately 0.125, with more certainity due to it's pointed peak.
+
+
 # Simulating the AB Dataset by Taking 290,585 Random Samples
 
 ## AB Posterior Test
@@ -8,14 +18,6 @@ https://9fv2vh.csb.app/
 
 Because the curves overlap slightly, it indicates a potential difference in performance between the landing pages' conversion rates. Because both curves are the same height, we can expect the same probabilty for observing their respective conversion rates. 
 
-
-## AB Beta Probability Density Function
-
-<!--- ![AB Beta Probability Density Function](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_BetaProb_DensityFunction.png?raw=true) -->
-
-https://5yxnmt.csb.app/
-
-The Beta Distribution has a skewed distribution, therefore there is a higher probability of observing values closer to 0.25 and 0. The highest probability value for the conversion rate is approximately 0.125, with more certainity due to it's pointed peak.
 
 ## AB Histogram of the mean
 
@@ -33,17 +35,16 @@ Indicates the most uplift peaks which is at 2.5%. Also, the posterior mass, whic
 
 https://6tfk4x.csb.app/
 
-## AB Beta Probability Density Function (100)
+In the AB Posterior Test with 100 random samples, the curves of the conversion rate distributions exhibit significant overlap, suggesting limited evidence for a performance difference between the landing pages. Notably, the curve for variation 'A' stands tallest, indicating a higher likelihood of observing conversion for individuals on the new page. 
 
-<!--- ![AB Beta Probability Density Function](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_BetaProb_DensityFunction.png?raw=true) -->
-
-https://5yxnmt.csb.app/
 
 ## AB Histogram of the mean (100)
 
 <!--- ![AB 100 Histogram of the mean](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_100_Hist_of_mean_B.png?raw=true) -->
 
 https://2ypnrl.csb.app/
+
+The histogram depicts the mean values for the A/B test (100 samples). The value of 2.2% indicates a 98% probability that the conversion rate for the new page is greater than the conversion rate for the old page.
 
 # 
 
