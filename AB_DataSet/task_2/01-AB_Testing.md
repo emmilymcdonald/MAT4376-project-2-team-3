@@ -15,9 +15,9 @@ https://5yxnmt.csb.app/
 
 ## AB Histogram of the mean
 
-![AB Histogram of the mean](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_hist_of_mean.png?raw=true)
+<!--- ![AB Histogram of the mean](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_hist_of_mean.png?raw=true) -->
 
-
+https://qdv5vp.csb.app/
 
 # Simulating the AB Dataset but with only 100 Random Samples
 
@@ -35,9 +35,9 @@ https://5yxnmt.csb.app/
 
 ## AB Histogram of the mean (100)
 
-![AB 100 Histogram of the mean](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_100_Hist_of_mean_B.png?raw=true)
+<!--- ![AB 100 Histogram of the mean](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_2/ABTEST_100_Hist_of_mean_B.png?raw=true) -->
 
-
+https://2ypnrl.csb.app/
 
 # 
 
