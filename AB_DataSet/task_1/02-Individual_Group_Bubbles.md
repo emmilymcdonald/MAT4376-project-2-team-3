@@ -30,7 +30,7 @@ https://3vfzc7.csb.app/
 
 Looking at each of the histograms above, you'll notice that they are all still uniformly distributed for hours and days for both groups. Since all of the data we have seen so far is uniformly distributed, this may indicate that we need to do some Bayesian Analysis to find out what is going on. 
 
-# 
+---
 
 Now that we have a general idea of how the data looks, we want to use a different method on the dataset and look at different initial (prior) beliefs and see if they impact how the posterior probability distribution converges (if it does). 
 
