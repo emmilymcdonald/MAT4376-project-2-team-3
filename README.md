@@ -1,12 +1,5 @@
 # Bayesian Analysis Lab
 
-<iframe src="https://codesandbox.io/embed/los-admitgroup-count-jkksjv?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="LOS_AdmitGroup_COUNT"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-
 We used the following three datasets for our work throughout this repository:
  * [AB_Dataset](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/ab_data_v2.xlsx)
  * [MIMIC3D_Dataset](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic3d_v3.csv)
