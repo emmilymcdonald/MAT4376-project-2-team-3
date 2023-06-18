@@ -22,7 +22,7 @@ https://8l39z4.csb.app/
 
 As you can see in the graphs above, there is an overall uniform distribution for both hours and days. In the first graph, you can see the number of converted users from each group that accessed the webpage and at what times they did so. You'll notice that the graph is uniformly distributed so it doesn't matter what time of day it was for the converted users. In the second graph, you can see the number of converted users from each group and on which day they accessed the website. Notice that on the first and last days of the reporting period, the number of converted users is smaller than the rest of the days. This could be due to a number of reasons, for example, if the reporting period opened and closed at noon. This would decrease the amount of time users had to access the webpage and possibly cause fewer users to convert. Even though there are fewer users on those two days, you'll notice that each of the groups still had a relatively even number of users who converted. 
 
-# 
+---
 
 Next, we will look into each group on its own and look at the number of converted users.
 
