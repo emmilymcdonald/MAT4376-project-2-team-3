@@ -1,10 +1,14 @@
 # Variables That Have a High Correlation With LOSdays Variables
 
-### Plotting LOSdays as a density function:
+<!--- ### Plotting LOSdays as a density function: -->
 
-![los_density](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/los_density.png?raw=true)
+<!--- ![los_density](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic_images/los_density.png?raw=true) -->
 
-The average length of stay (in days): 10.11495
+<!--- The average length of stay (in days): 10.11495 -->
+
+### Plotting the Frequency of the LOS
+
+https://fphflg.csb.app/
 
 ### Plotting age by admit type against LOS (omitting newborns):
 
