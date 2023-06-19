@@ -3,7 +3,7 @@
 We used the following three datasets for our work throughout this repository:
  * [AB_Dataset](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/ab_data_v2.xlsx)
  * [MIMIC3D_Dataset](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/MIMIC3D_DataSet/mimic3d_v3.csv)
- * [Patients.csv](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/PATIENTS_DataSet/Patient.csv) **TO BE UPDATED WHEN THE FILE HAS BEEN CLEANED AND UPLOADED**
+ * [Patients.csv](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/PATIENTS_DataSet/Patient.csv)
 
 In addition to the datasets above, we also used the following subsets for task 1:
  * [Subsets](https://github.com/EvaGostiuk/MAT4376-project-2-team-3/blob/master/AB_DataSet/task_1/subsets.xlsx)
